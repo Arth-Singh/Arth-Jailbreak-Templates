@@ -4,7 +4,7 @@ A comprehensive collection of advanced prompt injection and jailbreaking templat
 
 ## About
 
-This repository contains 80+ original jailbreak templates developed for systematic evaluation of large language model safety measures with the help of LLMs. These templates employ cutting-edge prompt engineering techniques documented in 2024-2025 research literature.
+This repository contains 80+ original jailbreak templates developed for systematic evaluation of large language model safety measures with the help of LLMs. These templates also employ cutting-edge prompt engineering techniques documented in 2024-2025 research literature.
 
 **Author**: Arth Singh
 - Research Engineer, AI Safety @ AIM Intelligence Korea
@@ -36,10 +36,6 @@ These templates were developed as part of AI safety research to:
 - **Fallacy Exploitation**: Logical inconsistency exploitation
 - **Context Manipulation**: Attention span and priority exploitation
 
-### Specialized Applications
-- **Biological Research**: Templates targeting biosafety and pathogen information
-- **Chemical Research**: Templates targeting chemical synthesis and safety protocols
-- **Technical Documentation**: Code analysis and system documentation requests
 
 ## Template Structure
 
@@ -58,15 +54,6 @@ data_type: text
 value: |
   [Template content with {{ prompt }} placeholder]
 ```
-
-## Research Foundation
-
-Templates incorporate techniques from recent academic literature:
-- Multi-turn conversation exploitation (65% success rate)
-- Attention mechanism vulnerabilities
-- Context window overflow attacks
-- Alignment training gaps
-- Token-level vs. prompt-level attack vectors
 
 ## Integration
 

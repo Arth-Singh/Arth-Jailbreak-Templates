@@ -85,8 +85,4 @@ If you use these templates in academic research, please cite:
 }
 ```
 
----
 
-**Research Affiliations**:
-- AIM Intelligence Korea (AI Safety Research)
-- FAR.AI (SPAR Fellowship Program)

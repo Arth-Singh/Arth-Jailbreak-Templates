@@ -79,7 +79,7 @@ If you use these templates in academic research, please cite:
 @misc{singh2024jailbreak,
   title={Advanced Jailbreak Templates for LLM Safety Evaluation},
   author={Singh, Arth},
-  year={2024},
+  year={2025},
   publisher={GitHub},
   url={https://github.com/Arth-Singh/Arth-Jailbreak-Templates}
 }
